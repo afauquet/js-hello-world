@@ -4,7 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World! 55 I hope I get good at this.");
+console.log("Second Line?")
+console.log("Quoth the Raven - 'Nevermore!'")
+console.log("'Hello Quotes'")
+console.log("Howdy!!")
 
 /*  
 Next, PLAY! 
